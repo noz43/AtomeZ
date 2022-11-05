@@ -18,9 +18,9 @@
         "details": "IGN: %s"
       },
       "singlePlayer": {
-        "state": "Lonely play..",
-        "largeImageText": "World: %s",
-        "details": "IGN: %s"
+        "state": "",
+        "largeImageText": "",
+        "details": "%s"
       }
     }
   }
