@@ -1,0 +1,10 @@
+{
+  "clientId": "650384784551313457",
+  "smallDataUid": "icon",
+  "hideUnknownIPs": false,
+  "displayUrls": {
+    "gui": "https://raw.githubusercontent.com/ijo42/Uplink/data/data/gui/en.json",
+    "server": "https://raw.githubusercontent.com/ijo42/Uplink/data/data/server/",
+    "small": "https://raw.githubusercontent.com/ijo42/Uplink/data/data/small/"
+  }
+}
