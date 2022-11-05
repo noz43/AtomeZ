@@ -15,7 +15,7 @@
           "ip": "IP: %s"
         },
         "state": "Connect to server",
-        "details": "%s"
+        "details": ""
       },
       "singlePlayer": {
         "state": "",
