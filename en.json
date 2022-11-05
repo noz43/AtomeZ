@@ -1,7 +1,7 @@
 {
     "mainMenu": {
       "state": "Actuellement dans le Menu.",
-      "largeImageText": "Main Menu"
+      "largeImageText": ""
     },
     "loadingGame": {
       "state": "Lance d'AtomeZ Post Apocalypse",
