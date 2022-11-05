@@ -1,12 +1,12 @@
 {
     "mainMenu": {
-      "state": "Actuellement dans le Menu.",
+      "state": "Currently in the Menu.",
       "largeImageText": ""
     },
     "loadingGame": {
-      "state": "Lance d'AtomeZ Post Apocalypse",
+      "state": "AtomeZ launch",
       "largeImageText": "AtomeZ",
-      "details": ":703729925655625748: "
+      "details": "Loading..."
     },
     "inGame": {
       "multiPlayer": {
@@ -14,8 +14,8 @@
           "unknown": "Unknown Server",
           "ip": "IP: %s"
         },
-        "state": "Actuellement sur le serveur \u003c3",
-        "details": "IGN: %s"
+        "state": "Connect to server",
+        "details": "%s"
       },
       "singlePlayer": {
         "state": "",
