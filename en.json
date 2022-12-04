@@ -1,10 +1,10 @@
 {
     "mainMenu": {
-      "state": "Currently in the Menu.",
+      "state": "Currently in the AtomeZ Menu. 💤 ",
       "largeImageText": ""
     },
     "loadingGame": {
-      "state": "AtomeZ launch",
+      "state": "AtomeZ launch :703729925655625748: ",
       "largeImageText": "AtomeZ",
       "details": "Loading..."
     },
