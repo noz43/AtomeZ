@@ -4,15 +4,15 @@
       "largeImageText": "💤"
     },
     "loadingGame": {
-      "state": "AtomeZ launch :703729925655625748: ",
+      "state": "AtomeZ launch",
       "largeImageText": "AtomeZ",
       "details": "Loading..."
     },
     "inGame": {
       "multiPlayer": {
         "largeImageText": {
-          "unknown": "Unknown Server",
-          "ip": "IP: %s"
+          "unknown": "",
+          "": ": "
         },
         "state": "Connect to server",
         "details": ""
