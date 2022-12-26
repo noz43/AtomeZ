@@ -12,13 +12,13 @@
       "multiPlayer": {
         "largeImageText": {
           "unknown": "",
-
+            "ip": "IP: %s"
         },
         "state": "Connect to server",
         "details": ""
       },
       "singlePlayer": {
-        "state": "",
+        "state": "AtomeZ Developpement",
         "largeImageText": "",
         "details": "%s"
       }
