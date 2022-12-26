@@ -12,7 +12,7 @@
       "multiPlayer": {
         "largeImageText": {
           "unknown": "",
-          "": ": "
+          "ip": "IP: %s"
         },
         "state": "Connect to server",
         "details": ""
