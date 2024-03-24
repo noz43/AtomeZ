@@ -14,11 +14,11 @@
           "unknown": "",
             "ip": "IP: %s"
         },
-        "state": "Connect to server",
+        "state": "Connect to server - Developpement",
         "details": ""
       },
       "singlePlayer": {
-        "state": "AtomeZ Developpement",
+        "state": "AtomeZ - Developpement",
         "largeImageText": "",
         "details": "%s"
       }
